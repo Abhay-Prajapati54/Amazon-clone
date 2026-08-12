@@ -6,7 +6,7 @@ A simple **Amazon Clone** created using **HTML and CSS**.
 This project recreates the basic look and layout of Amazon's website for practice and learning purposes.<br>
 The main goal of this project is to practice **HTML structure, CSS styling, Flexbox, layouts, navigation bars, product cards, and website design**.<br><br>
 
-## Features
+# Features
 </br>
 </br>
 - Amazon-style navigation bar<br>
@@ -31,39 +31,20 @@ The main goal of this project is to practice **HTML structure, CSS styling, Flex
 ```text
 </br>
 AMAZONE-CLONE/
-</br>
 │
-</br>
 ├── image/
-</br>
 │   ├── content.jpg
-</br>
 │   ├── content2.jpg
-</br>
 │   ├── content3.jpg
-</br>
 │   ├── content4.jpg
-</br>
 │   ├── content5.jpg
-</br>
 │   ├── content6.jpg
-</br>
 │   ├── content7.jpg
-</br>
 │   ├── content8.jpg
-</br>
 │   ├── content9.jpg
-</br>
 │   ├── content10.jpg
-</br>
 │   ├── content11.jpg
-</br>
 │   └── hero.jpg
-</br>
-│
-</br>
 ├── index.html
-</br>
 ├── logo.png
-</br>
 └── style.css
