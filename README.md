@@ -29,7 +29,6 @@ The main goal of this project is to practice **HTML structure, CSS styling, Flex
 ## Project Structure
 </br></br>
 ```text
-</br>
 AMAZONE-CLONE/
 │
 ├── image/
